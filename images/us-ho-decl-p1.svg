@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1294" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="1000" height="1294" fill="#ffffff"/>
+  <text x="500" y="660" fill="#f1f1f1" font-size="80" font-weight="bold" text-anchor="middle" transform="rotate(-28 500 660)">MOCK — NOT A REAL POLICY</text>
+
+  <rect x="60" y="60" width="880" height="70" fill="#12355b"/>
+  <text x="80" y="105" fill="#ffffff" font-size="26" font-weight="bold">NORTHBRIDGE MUTUAL INSURANCE CO.</text>
+  <text x="920" y="100" fill="#cfd8e3" font-size="14" text-anchor="end">Homeowners Policy — Declarations</text>
+
+  <text x="60" y="180" fill="#12355b" font-size="32" font-weight="bold">HO-3 DECLARATIONS PAGE</text>
+  <line x1="60" y1="196" x2="940" y2="196" stroke="#12355b" stroke-width="2"/>
+
+  <g font-size="14" fill="#333">
+    <text x="60" y="230" font-weight="bold">Policy Number</text>
+    <text x="240" y="230">4927773733</text>
+    <text x="520" y="230" font-weight="bold">Policy Form</text>
+    <text x="680" y="230">HO-3 (Special Form)</text>
+
+    <text x="60" y="256" font-weight="bold">Named Insured</text>
+    <text x="240" y="256">Kowalski, Daniel J. &amp; Anne M.</text>
+    <text x="520" y="256" font-weight="bold">Policy State</text>
+    <text x="680" y="256">Massachusetts</text>
+
+    <text x="60" y="282" font-weight="bold">Insured Address</text>
+    <text x="240" y="282">1847 Maple Drive, Boston, MA 02130</text>
+
+    <text x="60" y="308" font-weight="bold">Effective</text>
+    <text x="240" y="308">09/15/2025</text>
+    <text x="520" y="308" font-weight="bold">Expiration</text>
+    <text x="680" y="308">09/15/2026</text>
+
+    <text x="60" y="334" font-weight="bold">Agent</text>
+    <text x="240" y="334">Beacon Hill Insurance Agency — K. Nguyen</text>
+  </g>
+
+  <text x="60" y="390" fill="#12355b" font-size="20" font-weight="bold">Section I — Property Coverages</text>
+  <line x1="60" y1="400" x2="940" y2="400" stroke="#12355b" stroke-width="1"/>
+
+  <g font-size="14" fill="#222">
+    <rect x="60" y="414" width="880" height="30" fill="#f0f3f7"/>
+    <text x="78" y="434" font-weight="bold">Coverage</text>
+    <text x="420" y="434" font-weight="bold">Description</text>
+    <text x="820" y="434" font-weight="bold" text-anchor="end">Limit</text>
+
+    <text x="78" y="464">Coverage A — Dwelling</text>
+    <text x="420" y="464">Open Perils — 1847 Maple Drive structure</text>
+    <text x="820" y="464" text-anchor="end">$425,000</text>
+
+    <text x="78" y="490">Coverage B — Other Structures</text>
+    <text x="420" y="490">Detached garage, fencing</text>
+    <text x="820" y="490" text-anchor="end">$42,500</text>
+
+    <text x="78" y="516">Coverage C — Personal Property</text>
+    <text x="420" y="516">Named Perils — household contents</text>
+    <text x="820" y="516" text-anchor="end">$212,500</text>
+
+    <text x="78" y="542">Coverage D — Loss of Use</text>
+    <text x="420" y="542">Additional living expense</text>
+    <text x="820" y="542" text-anchor="end">$85,000</text>
+
+    <text x="78" y="568">Coverage E — Personal Liability</text>
+    <text x="420" y="568">Per occurrence</text>
+    <text x="820" y="568" text-anchor="end">$300,000</text>
+
+    <text x="78" y="594">Coverage F — Medical Payments</text>
+    <text x="420" y="594">Per person</text>
+    <text x="820" y="594" text-anchor="end">$5,000</text>
+
+    <line x1="60" y1="610" x2="940" y2="610" stroke="#b0b6bf" stroke-width="1"/>
+    <text x="78" y="634" font-weight="bold">Deductible (All Other Perils)</text>
+    <text x="820" y="634" text-anchor="end" font-weight="bold">$2,500</text>
+
+    <text x="78" y="660" font-weight="bold">Deductible (Wind/Hail)</text>
+    <text x="820" y="660" text-anchor="end" font-weight="bold">$5,000</text>
+  </g>
+
+  <text x="60" y="720" fill="#12355b" font-size="20" font-weight="bold">Endorsements &amp; Forms Attached</text>
+  <line x1="60" y1="730" x2="940" y2="730" stroke="#12355b" stroke-width="1"/>
+
+  <g font-size="14" fill="#222">
+    <text x="78" y="758">• HO-3 06 10 — Special Form Homeowners Policy</text>
+    <text x="78" y="782">• HO-04 11 — Water Damage Exclusion (attached)</text>
+    <text x="78" y="806">• HO-07 23 — Roof Coverage Limit Endorsement (attached)</text>
+    <text x="78" y="830">• HO-ML 01 — Massachusetts Amendatory</text>
+  </g>
+
+  <text x="60" y="900" fill="#12355b" font-size="20" font-weight="bold">Premium Summary</text>
+  <line x1="60" y1="910" x2="940" y2="910" stroke="#12355b" stroke-width="1"/>
+
+  <g font-size="14" fill="#222">
+    <text x="78" y="940">Annual Premium</text>
+    <text x="820" y="940" text-anchor="end">$1,842.00</text>
+    <text x="78" y="966">Policy Fee</text>
+    <text x="820" y="966" text-anchor="end">$35.00</text>
+    <line x1="60" y1="982" x2="940" y2="982" stroke="#b0b6bf" stroke-width="1"/>
+    <text x="78" y="1006" font-weight="bold">Total Due</text>
+    <text x="820" y="1006" text-anchor="end" font-weight="bold">$1,877.00</text>
+  </g>
+
+  <text x="60" y="1240" fill="#888" font-size="11">Page 1 of 1 — Declarations — Policy 4927773733 — Issued 08/12/2025</text>
+</svg>

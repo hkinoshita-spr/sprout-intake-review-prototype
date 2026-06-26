@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1294" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1000" height="1294" fill="#ffffff"/>
+  <text x="500" y="660" fill="#f4f4f4" font-size="80" font-weight="bold" text-anchor="middle" transform="rotate(-28 500 660)">MOCK — NOT A REAL POLICY</text>
+
+  <rect x="60" y="60" width="880" height="70" fill="#4a154b"/>
+  <text x="80" y="105" fill="#ffffff" font-size="24" font-weight="bold">INTERNATIONAL SCHOOL OF KENYA — EMPLOYEE HEALTH PLAN</text>
+  <text x="920" y="102" fill="#e1c4e8" font-size="13" text-anchor="end">Policy Benefits Summary</text>
+
+  <text x="60" y="170" fill="#4a154b" font-size="22" font-weight="bold">Policy Identification</text>
+  <line x1="60" y1="180" x2="940" y2="180" stroke="#4a154b" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <text x="60" y="210" font-weight="bold">Policy ID</text>
+    <text x="240" y="210">2160100</text>
+    <text x="520" y="210" font-weight="bold">Plan</text>
+    <text x="680" y="210">Customised:WorldCare - Worldwide</text>
+
+    <text x="60" y="236" font-weight="bold">Policy Holder</text>
+    <text x="240" y="236">International School of Kenya Ltd.</text>
+
+    <text x="60" y="262" font-weight="bold">Period of Cover</text>
+    <text x="240" y="262">2025-07-01 → 2026-06-30</text>
+  </g>
+
+  <text x="60" y="320" fill="#4a154b" font-size="22" font-weight="bold">Benefit Definition Lines (BDLs)</text>
+  <line x1="60" y1="330" x2="940" y2="330" stroke="#4a154b" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <rect x="60" y="344" width="880" height="30" fill="#f3ecf4"/>
+    <text x="78" y="364" font-weight="bold">BDL</text>
+    <text x="420" y="364" font-weight="bold">Sub-Benefit</text>
+    <text x="640" y="364" font-weight="bold">Network</text>
+    <text x="920" y="364" font-weight="bold" text-anchor="end">Coinsurance</text>
+
+    <text x="78" y="396">Physician/Specialist Visit</text>
+    <text x="420" y="396">Outpatient Benefits</text>
+    <text x="640" y="396">Outside US</text>
+    <text x="920" y="396" text-anchor="end">0% (Kenya carve-out)</text>
+
+    <text x="78" y="422">Diagnostic Imaging</text>
+    <text x="420" y="422">Outpatient Benefits</text>
+    <text x="640" y="422">Outside US</text>
+    <text x="920" y="422" text-anchor="end">20%</text>
+
+    <text x="78" y="448">Laboratory Services</text>
+    <text x="420" y="448">Outpatient Benefits</text>
+    <text x="640" y="448">Outside US</text>
+    <text x="920" y="448" text-anchor="end">20%</text>
+
+    <text x="78" y="474">Hospital Stay (Semi-Private)</text>
+    <text x="420" y="474">Inpatient Benefits</text>
+    <text x="640" y="474">Outside US</text>
+    <text x="920" y="474" text-anchor="end">10%</text>
+
+    <text x="78" y="500">Maternity Delivery</text>
+    <text x="420" y="500">Maternity Benefits</text>
+    <text x="640" y="500">Outside US</text>
+    <text x="920" y="500" text-anchor="end">10%</text>
+  </g>
+
+  <text x="60" y="570" fill="#4a154b" font-size="22" font-weight="bold">Active Riders</text>
+  <line x1="60" y1="580" x2="940" y2="580" stroke="#4a154b" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <text x="60" y="612" font-weight="bold">Kenya Treatment Waiver</text>
+    <text x="60" y="634">The annual deductible is waived for treatments received in Kenya.</text>
+
+    <text x="60" y="680" font-weight="bold">Preventive Care Enhancement</text>
+    <text x="60" y="702">One wellness visit per calendar year is covered at 100%, no deductible.</text>
+
+    <text x="60" y="748" font-weight="bold">Evacuation &amp; Repatriation</text>
+    <text x="60" y="770">Medical evacuation and repatriation up to USD 1,000,000 per occurrence.</text>
+  </g>
+
+  <text x="60" y="840" fill="#4a154b" font-size="22" font-weight="bold">Accumulators (Policy Year 2025-2026)</text>
+  <line x1="60" y1="850" x2="940" y2="850" stroke="#4a154b" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <rect x="60" y="864" width="880" height="30" fill="#f3ecf4"/>
+    <text x="78" y="884" font-weight="bold">Accumulator</text>
+    <text x="520" y="884" font-weight="bold">Limit</text>
+    <text x="920" y="884" font-weight="bold" text-anchor="end">Used to date</text>
+
+    <text x="78" y="916">Annual Deductible (outside Kenya)</text>
+    <text x="520" y="916">USD 500 per member</text>
+    <text x="920" y="916" text-anchor="end">USD 0.00</text>
+
+    <text x="78" y="942">Annual Out-of-Pocket Max</text>
+    <text x="520" y="942">USD 5,000 per member</text>
+    <text x="920" y="942" text-anchor="end">USD 23.35</text>
+
+    <text x="78" y="968">Lifetime Maximum</text>
+    <text x="520" y="968">USD 2,000,000</text>
+    <text x="920" y="968" text-anchor="end">USD 23.35</text>
+  </g>
+
+  <text x="60" y="1040" fill="#4a154b" font-size="18" font-weight="bold">Claim Payment Note</text>
+  <line x1="60" y1="1052" x2="940" y2="1052" stroke="#4a154b" stroke-width="1.5"/>
+  <g font-size="13" fill="#222">
+    <text x="60" y="1082">Because the Kenya Treatment Waiver applies to this claim, the annual deductible is waived.</text>
+    <text x="60" y="1104">Claim is eligible for reimbursement at 100% of billed charges, subject to all other plan limits.</text>
+  </g>
+
+  <text x="60" y="1240" fill="#888" font-size="11">Policy Benefits — Policy 2160100 — International School of Kenya Ltd.</text>
+</svg>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1294" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1000" height="1294" fill="#ffffff"/>
+  <text x="500" y="660" fill="#f4f4f4" font-size="80" font-weight="bold" text-anchor="middle" transform="rotate(-28 500 660)">MOCK — NOT A REAL FORM</text>
+
+  <rect x="60" y="60" width="880" height="70" fill="#0a3d62"/>
+  <text x="80" y="105" fill="#ffffff" font-size="24" font-weight="bold">TSS ADMIN SOLUTIONS — CLAIM FORM (STANDARD)</text>
+  <text x="920" y="102" fill="#c8e2f0" font-size="13" text-anchor="end">Form TSS-STD-01 v3.2</text>
+
+  <text x="60" y="170" fill="#0a3d62" font-size="22" font-weight="bold">1. CLAIMANT INFORMATION</text>
+  <line x1="60" y1="180" x2="940" y2="180" stroke="#0a3d62" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <text x="60" y="212" font-weight="bold">First Name</text>
+    <rect x="220" y="196" width="300" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="232" y="213">Shelly Lynn</text>
+    <text x="560" y="212" font-weight="bold">Last Name</text>
+    <rect x="700" y="196" width="220" height="24" fill="#fef3c7" stroke="#d69e2e"/>
+    <text x="712" y="213">Waldonado</text>
+
+    <text x="60" y="252" font-weight="bold">Member ID</text>
+    <rect x="220" y="236" width="200" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="232" y="253">210085786</text>
+    <text x="460" y="252" font-weight="bold">Policy Holder</text>
+    <rect x="620" y="236" width="300" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="632" y="253">International School of Kenya Ltd.</text>
+
+    <text x="60" y="292" font-weight="bold">Policy ID</text>
+    <rect x="220" y="276" width="200" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="232" y="293">2160100</text>
+    <text x="460" y="292" font-weight="bold">Claimant Entity ID</text>
+    <rect x="620" y="276" width="300" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="632" y="293">210085786</text>
+
+    <text x="60" y="332" font-weight="bold">Effective Date</text>
+    <rect x="220" y="316" width="200" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="232" y="333">2025-07-01</text>
+    <text x="460" y="332" font-weight="bold">Policy End Date</text>
+    <rect x="620" y="316" width="300" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="632" y="333">2026-06-30</text>
+  </g>
+
+  <text x="60" y="400" fill="#0a3d62" font-size="22" font-weight="bold">2. DIAGNOSIS</text>
+  <line x1="60" y1="410" x2="940" y2="410" stroke="#0a3d62" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <text x="60" y="438" font-weight="bold">Principal Diagnosis Code</text>
+    <rect x="280" y="422" width="120" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="292" y="439">N95.1</text>
+    <text x="440" y="438" font-weight="bold">Treatment Procedure Code</text>
+    <rect x="680" y="422" width="100" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="692" y="439">2</text>
+
+    <text x="60" y="478" font-weight="bold">Chief Complaint / Diagnosis Narrative</text>
+    <rect x="60" y="488" width="880" height="72" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="72" y="510">I met with my doctor to discuss my menopause symptoms,</text>
+    <text x="72" y="530">including lack of sleep, anxiety, hotflashes.</text>
+  </g>
+
+  <text x="60" y="610" fill="#0a3d62" font-size="22" font-weight="bold">3. TREATMENT</text>
+  <line x1="60" y1="620" x2="940" y2="620" stroke="#0a3d62" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <text x="60" y="652" font-weight="bold">Treatment Country</text>
+    <rect x="220" y="636" width="200" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="232" y="653">Kenya (KE)</text>
+    <text x="460" y="652" font-weight="bold">Admission Status</text>
+    <rect x="620" y="636" width="300" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="632" y="653">out patient</text>
+
+    <text x="60" y="692" font-weight="bold">Place of Service</text>
+    <rect x="220" y="676" width="200" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="232" y="693">22</text>
+    <text x="460" y="692" font-weight="bold">Treatment Date</text>
+    <rect x="620" y="676" width="300" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="632" y="693">2026-02-24</text>
+
+    <text x="60" y="732" font-weight="bold">Received Date</text>
+    <rect x="220" y="716" width="200" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="232" y="733">2026-03-01</text>
+  </g>
+
+  <text x="60" y="800" fill="#0a3d62" font-size="22" font-weight="bold">4. PROVIDER / BILLING</text>
+  <line x1="60" y1="810" x2="940" y2="810" stroke="#0a3d62" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <text x="60" y="842" font-weight="bold">Billing Name</text>
+    <rect x="220" y="826" width="700" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="232" y="843">Columbia Africa Healthcare Limited</text>
+
+    <text x="60" y="882" font-weight="bold">Billing Address</text>
+    <rect x="220" y="866" width="700" height="48" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="232" y="884">G-02, Ground Floor, Park Place 2nd Avenue Parklands</text>
+    <text x="232" y="904">Limuru Road, Nairobi 00623, Kenya</text>
+
+    <text x="60" y="954" font-weight="bold">Reference Number</text>
+    <rect x="220" y="938" width="200" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="232" y="955">MP26060217252</text>
+    <text x="460" y="954" font-weight="bold">Total Billed</text>
+    <rect x="620" y="938" width="300" height="24" fill="#f6f8fb" stroke="#cbd5e0"/>
+    <text x="632" y="955">KES 3,000 (claim-wide: KES 28,620)</text>
+  </g>
+
+  <text x="60" y="1020" fill="#0a3d62" font-size="22" font-weight="bold">5. CLAIMANT SIGNATURE</text>
+  <line x1="60" y1="1030" x2="940" y2="1030" stroke="#0a3d62" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <text x="60" y="1072">I certify that the information supplied above is true and correct to the best of my knowledge.</text>
+    <text x="60" y="1120" font-weight="bold">Claimant signature</text>
+    <line x1="220" y1="1125" x2="560" y2="1125" stroke="#333" stroke-width="1"/>
+    <text x="240" y="1118" font-style="italic" fill="#555">Shelly L. Maldonado</text>
+    <text x="600" y="1120" font-weight="bold">Date</text>
+    <line x1="680" y1="1125" x2="900" y2="1125" stroke="#333" stroke-width="1"/>
+    <text x="700" y="1118" fill="#555">2026-02-28</text>
+  </g>
+
+  <text x="60" y="1240" fill="#888" font-size="11">Claim Form — claim_id_f3bdf449978345e990108e511696fb99 — Page 1 of 3</text>
+</svg>

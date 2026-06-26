@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1294" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="1000" height="1294" fill="#ffffff"/>
+  <text x="500" y="660" fill="#f1f1f1" font-size="80" font-weight="bold" text-anchor="middle" transform="rotate(-28 500 660)">MOCK — NOT A REAL POLICY</text>
+
+  <rect x="60" y="60" width="880" height="60" fill="#12355b"/>
+  <text x="80" y="98" fill="#ffffff" font-size="22" font-weight="bold">HO-3 SPECIAL FORM HOMEOWNERS POLICY</text>
+  <text x="920" y="96" fill="#cfd8e3" font-size="13" text-anchor="end">Form HO-3 06 10 — Page 1</text>
+
+  <text x="60" y="168" fill="#12355b" font-size="26" font-weight="bold">SECTION I — PROPERTY COVERAGES</text>
+
+  <g font-size="15" fill="#222">
+    <text x="60" y="214" font-weight="bold">A. Coverage A — Dwelling</text>
+    <text x="60" y="242">We cover:</text>
+    <text x="80" y="268">1. The dwelling on the "residence premises" shown in the Declarations,</text>
+    <text x="80" y="290">    including structures attached to the dwelling.</text>
+    <text x="80" y="316">2. Materials and supplies located on or next to the "residence premises"</text>
+    <text x="80" y="338">    used to construct, alter or repair the dwelling or other structures.</text>
+
+    <text x="60" y="388" font-weight="bold">B. Coverage B — Other Structures</text>
+    <text x="60" y="416">We cover other structures on the "residence premises" set apart from the</text>
+    <text x="60" y="438">dwelling by clear space. This includes structures connected to the dwelling</text>
+    <text x="60" y="460">by only a fence, utility line or similar connection.</text>
+
+    <text x="60" y="510" font-weight="bold">C. Coverage C — Personal Property</text>
+    <text x="60" y="538">We cover personal property owned or used by an "insured" while it is</text>
+    <text x="60" y="560">anywhere in the world. After a loss, and at your request, we will cover</text>
+    <text x="60" y="582">personal property owned by others while the property is on the part of the</text>
+    <text x="60" y="604">"residence premises" occupied by an "insured."</text>
+
+    <text x="60" y="654" font-weight="bold">D. Coverage D — Loss of Use</text>
+    <text x="60" y="682">The limit of liability for Coverage D is the total limit for the coverages</text>
+    <text x="60" y="704">described below:</text>
+    <text x="80" y="730">1. Additional Living Expense.</text>
+    <text x="80" y="752">2. Fair Rental Value.</text>
+    <text x="80" y="774">3. Civil Authority Prohibits Use.</text>
+
+    <text x="60" y="824" font-weight="bold">E. Additional Coverages</text>
+    <text x="60" y="852">Subject to the policy provisions and the exclusions shown in Section I,</text>
+    <text x="60" y="874">we provide the following additional coverages:</text>
+    <text x="80" y="900">1. Debris Removal — up to 5% of the Coverage A limit.</text>
+    <text x="80" y="922">2. Reasonable Repairs — to protect property from further damage.</text>
+    <text x="80" y="944">3. Trees, Shrubs and Other Plants — up to 5% of Coverage A.</text>
+    <text x="80" y="966">4. Fire Department Service Charge — up to $500.</text>
+    <text x="80" y="988">5. Property Removed — for direct loss from any cause while removed.</text>
+    <text x="80" y="1010">6. Credit Card, Fund Transfer Card, Forgery — up to $500.</text>
+    <text x="80" y="1032">7. Loss Assessment — up to $1,000.</text>
+    <text x="80" y="1054">8. Collapse — as defined in Section I — Perils Insured Against.</text>
+    <text x="80" y="1076">9. Glass or Safety Glazing Material — repair or replacement.</text>
+    <text x="80" y="1098">10. Landlord's Furnishings — up to $2,500 in a rented unit.</text>
+    <text x="80" y="1120">11. Ordinance or Law — up to 10% of the Coverage A limit.</text>
+    <text x="80" y="1142">12. Grave Markers — up to $5,000.</text>
+  </g>
+
+  <text x="60" y="1240" fill="#888" font-size="11">HO-3 Policy Form — Policy 4927773733 — Page 1 of 2</text>
+</svg>

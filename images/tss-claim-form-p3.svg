@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1294" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1000" height="1294" fill="#ffffff"/>
+  <text x="500" y="660" fill="#f4f4f4" font-size="80" font-weight="bold" text-anchor="middle" transform="rotate(-28 500 660)">MOCK — NOT A REAL FORM</text>
+
+  <rect x="60" y="60" width="880" height="70" fill="#0a3d62"/>
+  <text x="80" y="105" fill="#ffffff" font-size="24" font-weight="bold">TSS ADMIN SOLUTIONS — CLAIM FORM (STANDARD)</text>
+  <text x="920" y="102" fill="#c8e2f0" font-size="13" text-anchor="end">Page 3 — Disclosures</text>
+
+  <text x="60" y="170" fill="#0a3d62" font-size="22" font-weight="bold">8. CONSENT &amp; DISCLOSURE</text>
+  <line x1="60" y1="180" x2="940" y2="180" stroke="#0a3d62" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <text x="60" y="214">By signing on page 2 of this form I acknowledge that:</text>
+    <text x="80" y="250">(a) the insurer may share the information on this claim with the treating provider, the</text>
+    <text x="80" y="272">    policyholder, the policyholder's broker, and any third-party administrator as reasonably</text>
+    <text x="80" y="294">    necessary to adjudicate this claim;</text>
+    <text x="80" y="324">(b) the insurer may contact me at the address, email, or telephone number on record to</text>
+    <text x="80" y="346">    request additional information, and failure to respond within 30 days may result in delay</text>
+    <text x="80" y="368">    or denial of the claim;</text>
+    <text x="80" y="398">(c) knowingly submitting false information in this form may be a criminal offense under</text>
+    <text x="80" y="420">    applicable law and may result in claim denial and contract termination;</text>
+    <text x="80" y="450">(d) amounts settled and paid under this claim are subject to the policy terms and conditions</text>
+    <text x="80" y="472">    in effect on the treatment date, including all attached riders, endorsements, and network</text>
+    <text x="80" y="494">    designations;</text>
+    <text x="80" y="524">(e) I have read and understood the policy accumulator values applicable to this claim,</text>
+    <text x="80" y="546">    including annual deductibles, coinsurance percentages, and out-of-pocket maxima.</text>
+  </g>
+
+  <text x="60" y="620" fill="#0a3d62" font-size="22" font-weight="bold">9. REQUIRED SUPPORTING DOCUMENTS</text>
+  <line x1="60" y1="630" x2="940" y2="630" stroke="#0a3d62" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <text x="80" y="666">☑ Original invoice / itemised bill from provider</text>
+    <text x="80" y="694">☑ Proof of payment (where reimbursement is requested)</text>
+    <text x="80" y="722">☑ Medical report or doctor's certificate confirming diagnosis</text>
+    <text x="80" y="750">☐ Prescription(s) (if medications claimed)</text>
+    <text x="80" y="778">☐ Hospital discharge summary (for inpatient claims)</text>
+    <text x="80" y="806">☐ Referral letter (for specialist visits, where required)</text>
+  </g>
+
+  <text x="60" y="870" fill="#0a3d62" font-size="16" font-weight="bold">Office Use Only</text>
+  <rect x="60" y="880" width="880" height="160" fill="#fafbfc" stroke="#cbd5e0"/>
+  <g font-size="12" fill="#555">
+    <text x="80" y="910">Received by: ___________________________    Date: _______________</text>
+    <text x="80" y="942">Reference assigned: MP26060217252</text>
+    <text x="80" y="974">Routing queue: Actisure / TSS Americas Health</text>
+    <text x="80" y="1006">Validation result: ALL DOCS COMPLETED — Claim can be sent to Actisure</text>
+  </g>
+
+  <text x="60" y="1240" fill="#888" font-size="11">Claim Form — claim_id_f3bdf449978345e990108e511696fb99 — Page 3 of 3</text>
+</svg>

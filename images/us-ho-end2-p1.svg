@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1294" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="1000" height="1294" fill="#ffffff"/>
+  <text x="500" y="660" fill="#f1f1f1" font-size="80" font-weight="bold" text-anchor="middle" transform="rotate(-28 500 660)">MOCK — NOT A REAL POLICY</text>
+
+  <rect x="60" y="60" width="880" height="60" fill="#1e4d2b"/>
+  <text x="80" y="98" fill="#ffffff" font-size="22" font-weight="bold">ENDORSEMENT — ROOF COVERAGE LIMIT</text>
+  <text x="920" y="96" fill="#d1e7d5" font-size="13" text-anchor="end">Form HO-07 23</text>
+
+  <text x="60" y="170" fill="#1e4d2b" font-size="24" font-weight="bold">THIS ENDORSEMENT CHANGES THE POLICY.</text>
+  <text x="60" y="200" fill="#1e4d2b" font-size="18" font-weight="bold">PLEASE READ IT CAREFULLY.</text>
+
+  <g font-size="15" fill="#222">
+    <text x="60" y="250">Attached to and forming part of Policy Number</text>
+    <text x="60" y="272" font-weight="bold">4927773733</text><text x="180" y="272">, effective 09/15/2025.</text>
+
+    <text x="60" y="320" font-weight="bold" fill="#1e4d2b">A. SCHEDULE OF LIMITS</text>
+
+    <rect x="60" y="340" width="880" height="30" fill="#eaf4ec"/>
+    <text x="78" y="360" font-weight="bold">Roof Component</text>
+    <text x="480" y="360" font-weight="bold">Age of Roof</text>
+    <text x="920" y="360" font-weight="bold" text-anchor="end">Loss Settlement</text>
+
+    <text x="78" y="392">Asphalt / composition shingles</text>
+    <text x="480" y="392">0 – 10 years</text>
+    <text x="920" y="392" text-anchor="end">Replacement Cost</text>
+
+    <text x="78" y="418">Asphalt / composition shingles</text>
+    <text x="480" y="418">11 – 15 years</text>
+    <text x="920" y="418" text-anchor="end">Actual Cash Value</text>
+
+    <text x="78" y="444">Wood shake / shingle</text>
+    <text x="480" y="444">Any age</text>
+    <text x="920" y="444" text-anchor="end">Actual Cash Value</text>
+
+    <text x="78" y="470">Slate / tile / metal</text>
+    <text x="480" y="470">0 – 25 years</text>
+    <text x="920" y="470" text-anchor="end">Replacement Cost</text>
+
+    <text x="78" y="496">Flat / membrane (EPDM, TPO)</text>
+    <text x="480" y="496">0 – 10 years</text>
+    <text x="920" y="496" text-anchor="end">Replacement Cost</text>
+
+    <line x1="60" y1="516" x2="940" y2="516" stroke="#b0b6bf" stroke-width="1"/>
+
+    <text x="60" y="562" font-weight="bold" fill="#1e4d2b">B. COVERAGE TRIGGER</text>
+    <text x="60" y="590">Coverage applies when the loss results from a peril insured against under</text>
+    <text x="60" y="612">Section I — Perils Insured Against of the policy, AND one of the following</text>
+    <text x="60" y="634">is documented:</text>
+    <text x="80" y="660">1. Exterior damage to the roof surface (missing shingles, cracked</text>
+    <text x="80" y="682">    membrane, exposed decking), or</text>
+    <text x="80" y="708">2. Interior damage attributable to an ice dam event (per §I.B.3.c of</text>
+    <text x="80" y="730">    the base policy form).</text>
+
+    <text x="60" y="780" font-weight="bold" fill="#1e4d2b">C. SPECIFIC LIMIT — ICE DAM LOSSES</text>
+    <text x="60" y="808">For interior damage caused by ice dams, the limit of liability is</text>
+    <text x="60" y="830" font-weight="bold">$50,000 per occurrence</text>
+    <text x="285" y="830">, subject to the All Other Perils deductible.</text>
+    <text x="60" y="856">This specific limit does not erode the Coverage A dwelling limit.</text>
+
+    <text x="60" y="906" font-weight="bold" fill="#1e4d2b">D. EXCLUSION — COSMETIC DAMAGE</text>
+    <text x="60" y="934">No coverage is provided for cosmetic damage to roofing materials</text>
+    <text x="60" y="956">(discoloration, granule loss, or weathering) absent functional failure.</text>
+
+    <text x="60" y="1010" font-weight="bold" fill="#1e4d2b">E. ALL OTHER TERMS REMAIN UNCHANGED</text>
+    <text x="60" y="1038">This endorsement is effective on the policy effective date shown above</text>
+    <text x="60" y="1060">and remains in force for the duration of the policy period.</text>
+  </g>
+
+  <text x="60" y="1240" fill="#888" font-size="11">Roof Coverage Limit Endorsement — Policy 4927773733 — Page 1 of 1</text>
+</svg>

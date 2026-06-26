@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1294" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="1000" height="1294" fill="#ffffff"/>
+  <text x="500" y="660" fill="#f1f1f1" font-size="80" font-weight="bold" text-anchor="middle" transform="rotate(-28 500 660)">MOCK — NOT A REAL POLICY</text>
+
+  <rect x="60" y="60" width="880" height="60" fill="#12355b"/>
+  <text x="80" y="98" fill="#ffffff" font-size="22" font-weight="bold">HO-3 SPECIAL FORM HOMEOWNERS POLICY</text>
+  <text x="920" y="96" fill="#cfd8e3" font-size="13" text-anchor="end">Form HO-3 06 10 — Page 2</text>
+
+  <text x="60" y="168" fill="#12355b" font-size="26" font-weight="bold">SECTION I — PERILS INSURED AGAINST</text>
+
+  <g font-size="15" fill="#222">
+    <text x="60" y="214" font-weight="bold">B. Coverage A — Dwelling and Coverage B — Other Structures</text>
+    <text x="60" y="242">We insure against risk of direct physical loss to property described in</text>
+    <text x="60" y="264">Coverages A and B.</text>
+
+    <text x="60" y="304" font-weight="bold">3. Covered Perils — Weather Events</text>
+    <text x="60" y="332">We cover direct physical loss caused by the following named perils:</text>
+    <text x="80" y="358">a. Windstorm or hail, including ice, snow, or sleet accumulation that</text>
+    <text x="80" y="380">    results in structural damage to the roof or exterior walls.</text>
+    <text x="80" y="406">b. Weight of ice, snow, or sleet which causes damage to property</text>
+    <text x="80" y="428">    contained in a building.</text>
+    <text x="80" y="454" font-weight="bold" fill="#12355b">c. Ice dams — accidental discharge or overflow of water resulting from</text>
+    <text x="80" y="476" font-weight="bold" fill="#12355b">    the formation of an ice dam on the roof, where interior damage</text>
+    <text x="80" y="498" font-weight="bold" fill="#12355b">    results from water backup into the dwelling.</text>
+    <text x="80" y="524">d. Sudden and accidental tearing apart, cracking, burning, or bulging</text>
+    <text x="80" y="546">    of a steam, hot water, air conditioning, or fire protective system.</text>
+  </g>
+
+  <text x="60" y="600" fill="#12355b" font-size="22" font-weight="bold">SECTION I — EXCLUSIONS</text>
+
+  <g font-size="15" fill="#222">
+    <text x="60" y="644" font-weight="bold">C. We do not insure for loss caused by any of the following:</text>
+
+    <text x="60" y="686" font-weight="bold">1. Ordinance or Law</text>
+    <text x="60" y="714">Meaning any ordinance or law regulating the construction, repair, or</text>
+    <text x="60" y="736">demolition of a building or other structure.</text>
+
+    <text x="60" y="780" font-weight="bold">2. Water Damage — Interior Without Exterior Breach</text>
+    <text x="60" y="808">We do not insure for loss caused by water damage to the interior of</text>
+    <text x="60" y="830">the dwelling unless:</text>
+    <text x="80" y="856">a. The damage is the direct result of a covered peril listed in</text>
+    <text x="80" y="878">    Section I — Perils Insured Against, paragraph B.3; or</text>
+    <text x="80" y="904">b. There is evidence of an exterior breach (damaged roof, shingles,</text>
+    <text x="80" y="926">    flashing, or wall) that permitted water to enter the dwelling.</text>
+    <text x="60" y="956">Interior water staining absent an exterior breach is excluded under</text>
+    <text x="60" y="978">this provision. This exclusion is modified by the Water Damage</text>
+    <text x="60" y="1000">Exclusion Endorsement (HO-04 11) where attached.</text>
+
+    <text x="60" y="1044" font-weight="bold">3. Earth Movement</text>
+    <text x="60" y="1072">Meaning earthquake, landslide, mine subsidence, mudflow, sinkhole,</text>
+    <text x="60" y="1094">or any other earth movement.</text>
+
+    <text x="60" y="1138" font-weight="bold">4. Neglect</text>
+    <text x="60" y="1166">Meaning neglect of the "insured" to use all reasonable means to save</text>
+    <text x="60" y="1188">and preserve property at and after the time of a loss.</text>
+  </g>
+
+  <text x="60" y="1240" fill="#888" font-size="11">HO-3 Policy Form — Policy 4927773733 — Page 2 of 2</text>
+</svg>

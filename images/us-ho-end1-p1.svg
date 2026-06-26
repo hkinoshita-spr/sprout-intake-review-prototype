@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1294" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="1000" height="1294" fill="#ffffff"/>
+  <text x="500" y="660" fill="#f1f1f1" font-size="80" font-weight="bold" text-anchor="middle" transform="rotate(-28 500 660)">MOCK — NOT A REAL POLICY</text>
+
+  <rect x="60" y="60" width="880" height="60" fill="#5a1a1a"/>
+  <text x="80" y="98" fill="#ffffff" font-size="22" font-weight="bold">ENDORSEMENT — WATER DAMAGE EXCLUSION</text>
+  <text x="920" y="96" fill="#f3d1d1" font-size="13" text-anchor="end">Form HO-04 11</text>
+
+  <text x="60" y="170" fill="#5a1a1a" font-size="24" font-weight="bold">THIS ENDORSEMENT CHANGES THE POLICY.</text>
+  <text x="60" y="200" fill="#5a1a1a" font-size="18" font-weight="bold">PLEASE READ IT CAREFULLY.</text>
+
+  <g font-size="15" fill="#222">
+    <text x="60" y="250">This endorsement modifies coverage provided under the Homeowners</text>
+    <text x="60" y="272">Policy (HO-3 06 10). Attached to and forming part of Policy Number</text>
+    <text x="60" y="294" font-weight="bold">4927773733</text><text x="180" y="294">, effective 09/15/2025.</text>
+
+    <text x="60" y="340" font-weight="bold" fill="#5a1a1a">A. SCHEDULE</text>
+    <text x="60" y="368">Named Insured: Kowalski, Daniel J. &amp; Anne M.</text>
+    <text x="60" y="390">Residence Premises: 1847 Maple Drive, Boston, MA 02130</text>
+
+    <text x="60" y="440" font-weight="bold" fill="#5a1a1a">B. EXCLUSION — WATER DAMAGE</text>
+    <text x="60" y="468">Section I — Exclusions is amended to add the following:</text>
+
+    <text x="80" y="510" font-weight="bold">1. Excluded Causes of Loss</text>
+    <text x="80" y="538">We do not insure for loss caused directly or indirectly by water damage,</text>
+    <text x="80" y="560">meaning:</text>
+    <text x="100" y="586">a. Flood, surface water, waves, tidal water, overflow of a body of</text>
+    <text x="100" y="608">    water, or spray from any of these, whether or not driven by wind.</text>
+    <text x="100" y="634">b. Water which backs up through sewers or drains or which</text>
+    <text x="100" y="656">    overflows from a sump.</text>
+    <text x="100" y="682">c. Water below the surface of the ground, including water which</text>
+    <text x="100" y="704">    exerts pressure on or seeps or leaks through a building,</text>
+    <text x="100" y="726">    sidewalk, driveway, foundation, swimming pool, or other structure.</text>
+
+    <text x="80" y="770" font-weight="bold">2. Carve-Out — Ice Dams</text>
+    <text x="80" y="798" fill="#5a1a1a" font-weight="bold">This exclusion does NOT apply to water damage caused by ice dams as</text>
+    <text x="80" y="820" fill="#5a1a1a" font-weight="bold">defined in Section I — Perils Insured Against, paragraph B.3.c of the</text>
+    <text x="80" y="842" fill="#5a1a1a" font-weight="bold">HO-3 policy form. Coverage for ice-dam-induced interior water</text>
+    <text x="80" y="864" fill="#5a1a1a" font-weight="bold">damage is preserved under the base policy, subject to the</text>
+    <text x="80" y="886" fill="#5a1a1a" font-weight="bold">deductible and all other policy terms.</text>
+
+    <text x="80" y="934" font-weight="bold">3. Burden of Proof</text>
+    <text x="80" y="962">Where a claim is submitted for interior water damage, the "insured"</text>
+    <text x="80" y="984">must provide evidence that the loss originated from a covered peril</text>
+    <text x="80" y="1006">and not from any excluded cause listed in paragraph 1 of this</text>
+    <text x="80" y="1028">endorsement. Acceptable evidence includes a roof inspection report,</text>
+    <text x="80" y="1050">contractor assessment, or photographs at the time of loss.</text>
+
+    <text x="60" y="1100" font-weight="bold" fill="#5a1a1a">C. ALL OTHER TERMS REMAIN UNCHANGED</text>
+  </g>
+
+  <text x="60" y="1240" fill="#888" font-size="11">Water Damage Exclusion Endorsement — Policy 4927773733 — Page 1 of 1</text>
+</svg>

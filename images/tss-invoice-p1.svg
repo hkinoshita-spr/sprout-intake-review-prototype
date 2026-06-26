@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1294" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1000" height="1294" fill="#ffffff"/>
+  <text x="500" y="660" fill="#f4f4f4" font-size="80" font-weight="bold" text-anchor="middle" transform="rotate(-28 500 660)">MOCK — NOT A REAL INVOICE</text>
+
+  <rect x="60" y="60" width="880" height="90" fill="#1b4332"/>
+  <text x="80" y="100" fill="#ffffff" font-size="24" font-weight="bold">COLUMBIA AFRICA HEALTHCARE LIMITED</text>
+  <text x="80" y="125" fill="#d0e9dd" font-size="13">G-02, Ground Floor, Park Place 2nd Avenue Parklands, Limuru Road</text>
+  <text x="80" y="143" fill="#d0e9dd" font-size="13">Nairobi 00623, Kenya · +254 20 123 4567</text>
+
+  <text x="60" y="200" fill="#1b4332" font-size="30" font-weight="bold">INVOICE</text>
+
+  <g font-size="13" fill="#222">
+    <text x="60" y="250" font-weight="bold">Invoice Reference</text>
+    <text x="260" y="250">MP26060217252</text>
+
+    <text x="60" y="276" font-weight="bold">Invoice Date</text>
+    <text x="260" y="276">2026-02-24</text>
+
+    <text x="60" y="302" font-weight="bold">Patient</text>
+    <text x="260" y="302">Shelly Lynn Waldonado</text>
+
+    <text x="60" y="328" font-weight="bold">Member ID</text>
+    <text x="260" y="328">210085786</text>
+
+    <text x="60" y="354" font-weight="bold">Place of Service</text>
+    <text x="260" y="354">22 (On-campus outpatient hospital)</text>
+
+    <text x="600" y="250" font-weight="bold">Billed to</text>
+    <text x="600" y="272">International School of Kenya Ltd.</text>
+    <text x="600" y="292">Insurance claims — TSS Admin Solutions</text>
+    <text x="600" y="326" font-weight="bold">Currency</text>
+    <text x="600" y="348">KES</text>
+  </g>
+
+  <text x="60" y="420" fill="#1b4332" font-size="18" font-weight="bold">Line items</text>
+  <line x1="60" y1="432" x2="940" y2="432" stroke="#1b4332" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <rect x="60" y="446" width="880" height="30" fill="#eaf1ed"/>
+    <text x="78" y="466" font-weight="bold">Description</text>
+    <text x="540" y="466" font-weight="bold">CPT</text>
+    <text x="640" y="466" font-weight="bold">Date</text>
+    <text x="780" y="466" font-weight="bold">Qty</text>
+    <text x="920" y="466" font-weight="bold" text-anchor="end">Amount (KES)</text>
+
+    <text x="78" y="498">Dr HETAL SHAH — Physician / Specialist consultation</text>
+    <text x="540" y="498">99213</text>
+    <text x="640" y="498">24-02-2026</text>
+    <text x="780" y="498">1</text>
+    <text x="920" y="498" text-anchor="end">3,000.00</text>
+
+    <line x1="60" y1="514" x2="940" y2="514" stroke="#b0b6bf" stroke-width="0.5"/>
+
+    <text x="78" y="540" fill="#888" font-style="italic">Further lines detailed on subsequent pages where applicable.</text>
+  </g>
+
+  <text x="60" y="620" fill="#1b4332" font-size="18" font-weight="bold">Totals</text>
+  <line x1="60" y1="632" x2="940" y2="632" stroke="#1b4332" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <text x="540" y="666">Subtotal</text>
+    <text x="920" y="666" text-anchor="end">KES 3,000.00</text>
+
+    <text x="540" y="696">VAT / Tax</text>
+    <text x="920" y="696" text-anchor="end">KES 0.00</text>
+
+    <line x1="540" y1="712" x2="940" y2="712" stroke="#b0b6bf"/>
+
+    <text x="540" y="740" font-weight="bold">Total this invoice</text>
+    <text x="920" y="740" text-anchor="end" font-weight="bold">KES 3,000.00</text>
+
+    <text x="540" y="770" fill="#555">Total across claim (all invoices)</text>
+    <text x="920" y="770" text-anchor="end" fill="#555">KES 28,620.00</text>
+  </g>
+
+  <text x="60" y="840" fill="#1b4332" font-size="18" font-weight="bold">Diagnosis</text>
+  <line x1="60" y1="852" x2="940" y2="852" stroke="#1b4332" stroke-width="1.5"/>
+
+  <g font-size="13" fill="#222">
+    <text x="60" y="884" font-weight="bold">Principal ICD-10:</text>
+    <text x="220" y="884">N95.1 — Menopausal and female climacteric states</text>
+
+    <text x="60" y="914">Patient presenting with menopause-related symptoms including disrupted sleep,</text>
+    <text x="60" y="934">anxiety, and hot flashes. Physician assessment performed during outpatient visit.</text>
+  </g>
+
+  <text x="60" y="1040" fill="#1b4332" font-size="18" font-weight="bold">Payment terms</text>
+  <line x1="60" y1="1052" x2="940" y2="1052" stroke="#1b4332" stroke-width="1.5"/>
+  <g font-size="12" fill="#555">
+    <text x="60" y="1082">Payment due within 30 days of invoice date. Please reference invoice number on all payments.</text>
+    <text x="60" y="1102">For billing enquiries: billing@columbiaafrica.example — +254 20 123 4567.</text>
+  </g>
+
+  <text x="60" y="1240" fill="#888" font-size="11">Invoice MP26060217252 — Columbia Africa Healthcare Limited — Page 1 of 1</text>
+</svg>

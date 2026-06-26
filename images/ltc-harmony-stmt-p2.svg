@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1294" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="1000" height="1294" fill="#ffffff"/>
+  <text x="500" y="660" fill="#f4f4f4" font-size="80" font-weight="bold" text-anchor="middle" transform="rotate(-28 500 660)">MOCK — NOT A REAL STATEMENT</text>
+
+  <!-- Header -->
+  <g font-size="14" fill="#222">
+    <text x="60" y="120">Statement date: 01/01/2026</text>
+  </g>
+
+  <!-- Harmony at Five Forks logo / header -->
+  <g>
+    <rect x="430" y="50" width="22" height="22" fill="#3a2740"/>
+    <rect x="446" y="56" width="22" height="22" fill="#9e8aab"/>
+    <rect x="434" y="64" width="22" height="22" fill="#3a2740"/>
+    <text x="478" y="90" font-size="40" font-weight="bold" fill="#3a2740">Harmony</text>
+    <text x="540" y="118" font-size="20" fill="#3a2740" font-style="italic">at Five Forks</text>
+  </g>
+
+  <text x="500" y="178" text-anchor="middle" font-size="18" fill="#3a2740" font-style="italic">Family Serving Families</text>
+  <text x="500" y="218" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Statement</text>
+
+  <g font-size="13" fill="#222" text-anchor="end">
+    <text x="940" y="120">Print Date: 12/21/2025</text>
+    <text x="940" y="138">Page 111</text>
+  </g>
+
+  <!-- Charges table header -->
+  <rect x="60" y="320" width="880" height="2" fill="#222"/>
+  <g font-size="13" fill="#222" font-weight="bold">
+    <text x="60" y="346">Charges</text>
+    <text x="300" y="346">From</text>
+    <text x="430" y="346">To</text>
+    <text x="640" y="346">Quantity</text>
+    <text x="770" y="346">Rate</text>
+    <text x="830" y="346">Frequency</text>
+    <text x="940" y="346" text-anchor="end">Amount</text>
+  </g>
+  <rect x="60" y="354" width="880" height="1" fill="#222"/>
+
+  <g font-size="13" fill="#222">
+    <text x="60" y="378">Meals - Guest</text>
+    <text x="300" y="378">11/22/25</text>
+    <text x="430" y="378">11/22/25</text>
+    <text x="700" y="378" text-anchor="end">1.00</text>
+    <text x="820" y="378" text-anchor="end">$40.00</text>
+    <text x="830" y="378">One time</text>
+    <text x="940" y="378" text-anchor="end">$40.00</text>
+
+    <text x="60" y="402" fill="#555">2 holiday meal guests 11/22</text>
+  </g>
+
+  <rect x="60" y="430" width="880" height="1" fill="#ccc"/>
+
+  <g font-size="14" fill="#222" font-weight="bold">
+    <text x="780" y="458">TOTAL CHARGES</text>
+    <text x="940" y="458" text-anchor="end">$7,094.55</text>
+  </g>
+
+  <!-- Footer fine print -->
+  <g font-size="11" fill="#333">
+    <rect x="60" y="1010" width="880" height="48" fill="#e8e8e8"/>
+    <text x="500" y="1034" text-anchor="middle">A $50 fee will be assessed for payments made via check.  A 3.0% processing fee will be assessed for payments made via credit card.  A late fee of $250 will be charged for payments</text>
+    <text x="500" y="1050" text-anchor="middle">received after the 5th day of the month and interest charged at 1.5% per month (subject to state/local law).</text>
+  </g>
+
+  <!-- Facility + Total Due block (above resident block) -->
+  <g font-size="13" fill="#222">
+    <text x="60" y="1098" font-weight="bold">Harmony at Five Forks</text>
+    <text x="60" y="1118">345 Five Forks Road</text>
+    <text x="60" y="1136">Simpsonville SC 29681</text>
+  </g>
+  <g font-size="13" fill="#222">
+    <rect x="640" y="1102" width="100" height="18" fill="#444"/>
+    <text x="690" y="1116" text-anchor="middle" fill="#fff" font-weight="bold">Total Due:</text>
+    <rect x="744" y="1102" width="200" height="18" fill="#888"/>
+    <text x="846" y="1116" text-anchor="middle" fill="#fff" font-weight="bold">$7,094.55</text>
+    <text x="640" y="1138">Amount Paid:</text>
+    <line x1="744" y1="1142" x2="940" y2="1142" stroke="#222" stroke-width="1"/>
+  </g>
+
+  <!-- Resident detail block (the part page 2 adds vs page 1) -->
+  <g font-size="13" fill="#222">
+    <text x="60" y="1192" font-weight="bold">Margaret Justice</text>
+    <text x="60" y="1212">345 Five Forks Rd.</text>
+    <text x="60" y="1230">Apt. 220</text>
+    <text x="60" y="1248">Simpsonville, SC 29681</text>
+  </g>
+
+  <g font-size="13" fill="#222">
+    <text x="540" y="1188" font-weight="bold" text-anchor="end">Payer ID:</text>
+    <text x="555" y="1188">90288316</text>
+    <text x="540" y="1208" font-weight="bold" text-anchor="end">Resident ID:</text>
+    <text x="555" y="1208">00024412</text>
+    <text x="540" y="1228" font-weight="bold" text-anchor="end">Unit:</text>
+    <text x="555" y="1228">220</text>
+    <text x="540" y="1248" font-weight="bold" text-anchor="end">Resident Name:</text>
+    <text x="555" y="1248">Margaret Justice</text>
+  </g>
+</svg>
